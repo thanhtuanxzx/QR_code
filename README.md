@@ -16,7 +16,7 @@ pip install qrcode[pil] pillow
 
 ## Usage
 1. Run the program:
-python qr_code_generator.py
+  python qr_code_generator.py
 
 2.When prompted, enter the content you want to encode in the QR code. This can be a URL, text, or any other string.
 
