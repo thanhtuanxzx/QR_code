@@ -11,7 +11,6 @@ Make sure you have Python installed on your system. You also need to install the
 
 You can install them using `pip`:
 
-```bash
 pip install qrcode[pil] pillow
 
 
